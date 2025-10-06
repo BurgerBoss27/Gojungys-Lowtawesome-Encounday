@@ -1,0 +1,113 @@
+{
+	"songs": [
+		[
+			"gojungy rap",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"fl chan",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bunton",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"crupptown",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"songs if they were made by lowtons who knew how to make music",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bobslaught",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"lowton tails",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"baby godzilla",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"zardy foobhardy",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"elephancounter",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "beautiful baby born into this world",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
